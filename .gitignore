@@ -1,0 +1,6 @@
+.ropeproject/*
+Output_EPExport_TestEpFmiMaster/*
+*.swp
+TestEpFmiMaster/Debug/
+TestEpFmiMaster/TestEpFmiMaster/Debug/
+TestEpFmiMaster/TestEpFmiMaster/Output_EPExport_TestEpFmiMaster/
